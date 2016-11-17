@@ -1,0 +1,28 @@
+{
+  "name": "a-storage",
+  "version": "1.0.0",
+  "description": "Provide an easy way to use storage in browsers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macisi/a-storage.git"
+  },
+  "keywords": [
+    "storage",
+    "localStorage",
+    "sessionStorage",
+    "webStorage"
+  ],
+  "author": "vincent.bian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macisi/a-storage/issues"
+  },
+  "homepage": "https://github.com/macisi/a-storage#readme",
+  "dependencies": {
+    "object-assign": "^4.1.0"
+  }
+}
