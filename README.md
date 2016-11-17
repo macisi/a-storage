@@ -1,6 +1,7 @@
 # a-storage
 
-[![NPM version](https://badge.fury.io/js/a-storage.svg)](http://badge.fury.io/js/a-storage)
+[![npm](https://img.shields.io/npm/v/a-storage.svg)](https://www.npmjs.com/package/a-storage)
+[![npm](https://img.shields.io/npm/dm/a-storage.svg)](https://www.npmjs.com/package/a-storage)
 
 a-storage is a simple storage library for JavaScript.
 
