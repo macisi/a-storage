@@ -3,9 +3,10 @@
 [![npm](https://img.shields.io/npm/v/a-storage.svg)](https://www.npmjs.com/package/a-storage)
 [![npm](https://img.shields.io/npm/dm/a-storage.svg)](https://www.npmjs.com/package/a-storage)
 
-a-storage is a simple storage library for JavaScript.
+a-storage is a simple JavaScript library for easily using WebStorage API.
 
-install width npm:
+
+Install width npm:
 
 ```sh
 npm install --save a-storage
@@ -37,6 +38,6 @@ driver | description
 
 ### Promise
 
-- Provide your own `Promise` implement
+- Provide your own `Promise` implemention
 - default: native `Promise` object
 
