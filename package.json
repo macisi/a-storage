@@ -1,6 +1,6 @@
 {
   "name": "a-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provide an easy way to use storage in browsers.",
   "main": "lib/index.js",
   "scripts": {
