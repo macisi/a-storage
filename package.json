@@ -4,7 +4,7 @@
   "description": "Provide an easy way to use storage in browsers.",
   "main": "lib/index.js",
   "scripts": {
-    "build": "babel src -d lib --source-maps --presets=es2015"
+    "build": "babel src -d lib --source-maps --plugins=transform-runtime --presets=es2015"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
     "babel-cli": "^6.18.0",
     "babel-core": "^6.18.2",
     "babel-loader": "^6.2.7",
+    "babel-plugin-transform-runtime": "^6.15.0",
     "babel-preset-es2015": "^6.18.0"
   }
 }
